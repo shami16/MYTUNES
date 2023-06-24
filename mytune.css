@@ -1,0 +1,189 @@
+*{
+margin:0;
+padding: 0;
+display: flexbox;
+}
+
+a:link{
+   /* color: white; */
+}
+a{
+   display: inline-block;
+   width: 100px;
+   text-align: center;
+   padding: 10px 0;
+   color: #f8f8f8f5;
+   text-decoration: none;
+}
+
+.nav_link{
+/* display:flex; */
+/* word-spacing: 20px; */
+height: 40px;
+width: 100%;
+background-color: #333;
+color: rgb(51, 34, 34);
+position: fixed;
+
+}
+a:hover{
+   background-color:#000;
+}  
+.picture{
+   background: url(../img/showcase.jpeg)center/cover;
+   margin:0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+.white{
+   text-align: center;
+   color: #f8f8f8f5;
+   
+   
+   font-family: sans-serif;
+}
+h1{
+   font-size: 59px;
+   line-height: 200px;
+  
+}
+h2{
+   font-size: 30px;
+   line-height: 100px;
+   
+}
+#para{
+  text-align: center;
+  line-height: 20px;
+  font-size: 20px;
+  color: #f8f8f8f5;
+}
+p{
+   font-size: 20px;
+   color: #f8f8f8f5;
+}
+.section{
+   color: #fff;
+   background-color: #333;
+   text-align: center;
+   font-family: sans-serif;
+   
+}
+.b{
+   border-radius: 1px;
+   color: white;
+   border: 1px solid rgb(228, 14, 14);
+   padding: 10px 30px;
+   background-color: rgb(233, 6, 6);
+
+}
+.section-head{
+   font-size: 50px;
+   
+}
+h3{
+   line-height: 70px;
+   font-size: 40px;
+}
+.lead{
+   line-height: 50px;
+   padding: 30px 50px;
+  text-align: center;
+}
+.b:hover{
+   background-color: red;
+}
+.text-light{
+   line-height: 100px;
+}
+#video{
+   background-color: rgb(250, 245, 245);
+}
+
+.l{
+      line-height: 50px;
+      padding: 30px 50px;
+     text-align: center;
+}
+.con{
+   color: #000;
+}
+.l{
+   color: #000;
+}
+.btn{
+   color: #f0eaea;
+   border: 1px solid black;
+   background-color: rgb(2, 2, 48);
+}
+.btn:hover{
+   background-color: rgb(255, 0, 0);
+}
+.btn{
+   
+   bottom: 17px;
+   
+}
+#enter{
+   background: url(/img/section-bg.jpeg)center/cover;
+    height: 800px ;
+}
+#hero{
+  padding-top: 300px;
+   
+}
+
+.ead{
+ padding: 10px 20px;
+ font-weight: 100;
+ font-size: 30px;  
+}
+.g{
+   color: #000;
+}
+#giftcard{
+   display: flex;
+   
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.color{
+   color: #000;
+}
+.text-secondary{
+   color: #000;
+}
+.text-secondary:hover{
+   color: white;
+}
+
+footer{
+   background-color: #000;
+   display: flex;
+   justify-content: space-around;
+   padding-top: 60px;
+   padding-bottom: 40px;
+   
+}
+.end{
+   color: #f0eaea;
+   list-style: none;
+}
+#the {
+text-align: center;
+color: #fff;
+background-color: #333;
+height: 50px;
+padding-top: 30px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
